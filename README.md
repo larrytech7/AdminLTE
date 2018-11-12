@@ -19,6 +19,10 @@ updated guide.
 
 !["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
 
+## # Frameworks Integration
+- PHP CodeIgniter 3.1.9 - CI-ADMIN
+- PHP Laravel 4.0 - [ADD IF ANY]
+
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
 
